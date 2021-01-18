@@ -13,6 +13,7 @@ const Video = () => {
   return (
     <>
       <div className="shape">
+      <img src={imgVW} alt="" className="w-100 light-shape default-shape" />
         <img src={imgVW} alt="" className="w-100 light-shape default-shape" />
         <img src={imgVWD} alt="" className="w-100 dark-shape" />
       </div>
@@ -39,12 +40,7 @@ const Video = () => {
                   data-aos-duration="900"
                   data-aos-once="true"
                 >
-                </div>
-                <br></br>
-                <br></br>
-                <br></br>
-                <br></br>
-                
+                </div>               
          
               </div>
             </Col>

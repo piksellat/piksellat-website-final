@@ -11,14 +11,9 @@ const Brands = () => {
   return (
     <>
       {/* <!-- Brands Area --> */}
-      <div className="brand-section pt-13 pt-lg-17 pb-11 border-bottom bg-default-6">
+      <div className="brand-section pt-13 pt-lg-0 pb-11 border-bottom bg-default-4">
         <Container>
           <Row className="justify-content-center align-items-center">
-            <Col md="8">
-              <p className="gr-text-9 text-center mb-7">
-                Trusted by over 4,000+ customers, some of them are here
-              </p>
-            </Col>
             <Col xs="12">
               <div className="brand-logos d-flex justify-content-center justify-content-xl-between align-items-center mx-n9 flex-wrap">
                 <div

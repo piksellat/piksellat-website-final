@@ -1,8 +1,8 @@
 import React from "react";
 import PageWrapper from "../components/PageWrapper";
 import Hero from "../sections/landing10/Hero";
-import Services from "../sections/landing1/Services";
-import Content1 from "../sections/landing1/Content1";
+import Features from "../sections/landing6/Features";
+import Content3 from "../sections/landing6/Content3";
 import Brands from "../sections/landing12/Brands";
 import Fact from "../sections/landing1/Fact";
 import Feature from "../sections/landing1/Feature";
@@ -27,16 +27,13 @@ const IndexPage = () => {
         }}
       >
         <Hero />
-        <Services />
-        <Brands />
-        <Content1 />
+        <Features />
+        <Content3 />
         <Fact />
+        <Brands />
         <Feature />
         <CTA1 />
         <CaseStudies />
-        <br></br>
-        <br></br>
-        <br></br>
         <Video />
         <Testimonial />
         <CTA2 />
