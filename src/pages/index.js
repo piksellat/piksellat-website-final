@@ -9,7 +9,7 @@ import Feature from "../sections/landing1/Feature";
 import CTA1 from "../sections/landing1/CTA1";
 import CaseStudies from "../sections/landing1/CaseStudies";
 import Video from "../sections/landing8/Video";
-import Testimonial from "../sections/landing6/Testimonial";
+import Testimonial from "../sections/landing11/Testimonial";
 import CTA2 from "../sections/landing1/CTA2";
 
 const IndexPage = () => {

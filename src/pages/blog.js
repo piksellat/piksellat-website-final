@@ -15,7 +15,7 @@ import imgT5 from "../assets/image/inner/team-image-5.png";
 import imgT6 from "../assets/image/inner/team-image-6.png";
 import imgT7 from "../assets/image/inner/team-image-7.png";
 
-const AboutPage = () => {
+const BlogPage = () => {
   return (
     <>
       <PageWrapper
@@ -278,4 +278,4 @@ const AboutPage = () => {
     </>
   );
 };
-export default AboutPage;
+export default BlogPage;

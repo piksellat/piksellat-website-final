@@ -7,14 +7,14 @@ const Contact = () => {
     <>
       <PageWrapper
         headerConfig={{
-            theme: "light",
-            align: "right",
-            button: "cta", // cta, account, null
-            buttonText: "Get a free consultation",
+          theme: "light",
+          align: "right",
+          button: "cta", // cta, account, null
+          buttonText: "Get a free consultation",
+        }}
+          footerConfig={{
+            style: "style1", //style1, style2
           }}
-            footerConfig={{
-              style: "style1", //style1, style2
-            }}
       >
         <div className="inner-banner pt-29 pb-md-11 bg-default-2">
           <Container>
