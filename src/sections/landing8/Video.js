@@ -4,7 +4,6 @@ import { Container, Row, Col } from "react-bootstrap";
 import GlobalContext from "../../context/GlobalContext";
 
 import imgV from "../../assets/image/l6/jpg/l6-video-img.jpg";
-import imgP from "../../assets/image/l6/png/l6-video-pattern.png";
 import imgVW from "../../assets/image/svg/l6-video-wave.svg";
 import imgVWD from "../../assets/image/svg/l6-video-wave-dark.svg";
 
@@ -40,8 +39,13 @@ const Video = () => {
                   data-aos-duration="900"
                   data-aos-once="true"
                 >
-                  <img src={imgP} alt="" />
                 </div>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
+                
+         
               </div>
             </Col>
           </Row>
