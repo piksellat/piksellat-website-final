@@ -16,7 +16,7 @@ const IndexPage = () => {
     <>
       <PageWrapper
         footerConfig={{
-          style: "style1", //style1, style2
+          style: "style2", //style1, style2
         }}
       >
         <Hero />
