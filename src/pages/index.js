@@ -17,7 +17,7 @@ const IndexPage = () => {
     <>
       <PageWrapper
       headerConfig={{
-        theme: "dark",
+        theme: "light",
         align: "right",
         button: "cta", // cta, account, null
         buttonText: "Get a free consultation",
