@@ -19,7 +19,7 @@ const IndexPage = () => {
       headerConfig={{
         theme: "light",
         align: "right",
-        button: "cta", // cta, account, null
+        button: "null", // cta, account, null
         buttonText: "Get a free consultation",
       }}
         footerConfig={{
