@@ -23,7 +23,7 @@ const Fearures = () => {
                   <img src={iconF1} alt="" />
                 </div>
                 <div className="widget-texts">
-                  <h3 className="title gr-text-7 font-weight-bold mb-6">
+                  <h3 className="title gr-text-7  mb-6">
                     Organize your campaigns
                   </h3>
                   <p className="gr-text-9 mb-0">
@@ -44,7 +44,7 @@ const Fearures = () => {
                   <img src={iconF2} alt="" />
                 </div>
                 <div className="widget-texts">
-                  <h3 className="title gr-text-7 font-weight-bold mb-6">
+                  <h3 className="title gr-text-7 mb-6">
                     Manage customers
                   </h3>
                   <p className="gr-text-9 mb-0">
@@ -65,7 +65,7 @@ const Fearures = () => {
                   <img src={iconF3} alt="" />
                 </div>
                 <div className="widget-texts">
-                  <h3 className="title gr-text-7 font-weight-bold mb-6">
+                  <h3 className="title gr-text-7 mb-6">
                     Track progress fast
                   </h3>
                   <p className="gr-text-9 mb-0">

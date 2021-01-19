@@ -24,7 +24,8 @@ const Hero = () => {
             >
               <div className="hero-content pr-xl-19 mb-9 mb-md-0">
                 <h1 className="title gr-text-3 mb-6">
-                  Make your business powerful with Shade.
+                  Pixel Perfect<br/>
+                  Design Solutions
                 </h1>
                 <p className="gr-text-8 mb-8">
                   With lots of unique blocks, you can easily build a page

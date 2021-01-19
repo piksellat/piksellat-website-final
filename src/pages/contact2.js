@@ -7,9 +7,14 @@ const Contact = () => {
     <>
       <PageWrapper
         headerConfig={{
+          theme: "light",
           align: "right",
-          button: "account", // cta, account, null
+          button: "cta", // cta, account, null
+          buttonText: "Get a free consultation",
         }}
+          footerConfig={{
+            style: "style1", //style1, style2
+          }}
       >
         <div className="inner-banner pt-29 pb-md-11 bg-default-2">
           <Container>
@@ -175,6 +180,19 @@ const Contact = () => {
                             className="form-control gr-text-11 border-gray-3 gr-textarea-height"
                             required
                           ></textarea>
+                        </div>
+                      </Col>
+                      <Col md="12">
+                        <div className="form-group mb-7">
+                        <label className="gr-text-11 font-weight-bold text-blackish-blue" for="cars">Budget:</label>
+
+                        <select className="form-control gr-text-10 border" name="cars" id="cars">
+                        <option value="" disabled selected hidden>Choose a budget</option>
+                        <option value="volvo">500€ - 3000€</option>
+                        <option value="saab">3000€ - 10000€</option>
+                        <option value="mercedes">10000€ - 15000€</option>
+                        <option value="audi">15000€ +</option>
+                        </select> 
                         </div>
                       </Col>
                       <Col xs="3">
