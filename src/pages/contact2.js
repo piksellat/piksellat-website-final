@@ -21,11 +21,9 @@ const Contact = () => {
             <Row className="justify-content-center pt-5">
               <Col lg="9" xl="8">
                 <div className="px-md-15 text-center">
-                  <h2 className="title gr-text-2 mb-9">Contact us</h2>
+                  <h2 className="title gr-text-2 mb-9">Let's talk</h2>
                   <p className="gr-text-8 mb-13">
-                    With lots of unique blocks, you can easily build a page
-                    without coding. Build your next consultancy website within
-                    few minutes.
+                  We can help with any project. Some projects are incredibly complex, or maybe you need a helping hand. Our team can help you solidify goals, project scope, and budget.
                   </p>
                 </div>
               </Col>
@@ -45,8 +43,8 @@ const Contact = () => {
                       <div className="widget-text">
                         <h3 className="gr-text-6 mb-5">Call us</h3>
                         <p className="gr-text-7 mb-0">
-                          +1-940-394-2948 <br />
-                          +1-389-385-3807
+                          +383-49-857-586 <br />
+                          +383-45-50-77-20
                         </p>
                       </div>
                     </div>
@@ -59,9 +57,9 @@ const Contact = () => {
                       <div className="widget-text">
                         <h3 className="gr-text-6 mb-5">Email us</h3>
                         <p className="gr-text-7 mb-0">
-                          support@grayic.com
+                          info@piksellat.com
                           <br />
-                          contact@grayic.com
+                          piksellat@gmail.com
                         </p>
                       </div>
                     </div>
@@ -72,11 +70,11 @@ const Contact = () => {
                         <i className="icon icon-pin-3-2"></i>
                       </div>
                       <div className="widget-text">
-                        <h3 className="gr-text-6 mb-5">Visit us</h3>
+                        <h3 className="gr-text-6 mb-5">Based in</h3>
                         <p className="gr-text-7 mb-0">
-                          34 Madison Street,
+                          Ferizaj, Kosovo
                           <br />
-                          NY, USA 10005
+                          Working Worldwide
                         </p>
                       </div>
                     </div>
@@ -143,8 +141,8 @@ const Contact = () => {
                             type="text"
                             id="phone"
                             name="phone"
-                            placeholder="i.e. +1-234-567-7890"
-                            required
+                            placeholder="i.e. +1-234-567-7890 (optional)"
+                            
                           />
                         </div>
                       </Col>
