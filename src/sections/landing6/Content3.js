@@ -60,19 +60,25 @@ const Content = () => {
             <Col sm="10" lg="5" className="col-sm-10 col-lg-5">
               <div className="content-text pl-xl-7">
                 <h2 className="gr-text-4 mb-7">
-                  Make your customers <br className="d-none d-lg-block" />
-                  happy by giving services.
+                eCommerce Experiences                  
                 </h2>
                 <p className="gr-text-8 mb-0">
-                  We share common trends and strategies for improving your
-                  rental income and making sure you stay in high demand.
+                eCommerce is all about experience, and we craft and co-create experiences that are both purposeful and equally profitable. Digital brand building through eCommerce channels fuels business growth and the bottom-line.
+                </p>
+                <p className="gr-text-11 mb-0 mt-5 font-weight-light">
+                <ul>
+                  <li>Design Direction</li>
+                  <li>Industry & Consumer Research</li>
+                  <li>eCommerce Platforms</li>
+                  <li>Rapid Prototyping</li>
+                </ul>
                 </p>
                 <Link
                   to="/#"
-                  className="btn-link with-icon gr-text-blue gr-text-7 font-weight-bold mt-9"
+                  className="btn-link with-icon gr-text-blue gr-text-7  mt-9"
                 >
-                  Start a free trial{" "}
-                  <i className="icon icon-tail-right font-weight-bold"></i>
+                  Ecommerce Projects{" "}
+                  <i className="icon icon-tail-right"></i>
                 </Link>
               </div>
             </Col>

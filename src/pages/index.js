@@ -12,6 +12,7 @@ import CTA2 from "../sections/landing1/CTA2";
 import Content1 from "../sections/landing6/Content1";
 import Content2 from "../sections/landing6/Content2";
 import Content3 from "../sections/landing6/Content3";
+import Content4 from "../sections/landing6/Content4";
 
 const IndexPage = () => {
   return (
@@ -31,6 +32,7 @@ const IndexPage = () => {
         <Content1 />
         <Content2 />
         <Content3 />
+        <Content4 />
         <Fact />
         <Brands />
         <Feature />

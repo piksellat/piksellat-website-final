@@ -28,24 +28,24 @@ const Content = () => {
             <Col sm="10" lg="5" className="order-lg-1">
               <div className="content-text">
                 <h2 className="gr-text-4 mb-7">
-                Websites & Digital Platforms
+                Performance Marketing
                 </h2>
                 <p className="gr-text-8 mb-0">
-                We design digital platforms to empower users and your brand's tribe. This deep understanding of what motivates them allows us to forge and fine-tune the most powerful strategies that generate rapid ROI for your business.
+                With a keen understanding of what's happening in the digital landscape, we leverage the power of marketing platforms to connect audiences with contagious content worth sharing & spreading, cross-channel and touchpoint.
                 </p>
                 <p className="gr-text-11 mb-0 mt-5 font-weight-light">
                 <ul>
-                  <li>UX & UI Design</li>
-                  <li>Web & App Development</li>
-                  <li>Functional Prototyping</li>
-                  <li>Digital Strategy & Systems</li>
+                  <li>Growth Strategy</li>
+                  <li>Social Media Marketing</li>
+                  <li>PPC Campaigns</li>
+                  <li>Launch Strategies</li>
                 </ul>
                 </p>
                 <Link
                   to="/projects"
-                  className="btn-link with-icon gr-text-blue gr-text-7 mt-5"
+                  className="btn-link with-icon gr  -text-blue gr-text-7 mt-5"
                 >
-                  Web & Digital Projects{" "}
+                  Performance Projects{" "}
                   <i className="icon icon-tail-right"></i>
                 </Link>
               </div>
