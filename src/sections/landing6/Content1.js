@@ -55,7 +55,7 @@ const Content = () => {
                 </ul>
                 </p>
                 <Link
-                  to="/#"
+                  to="/projects"
                   className="btn-link with-icon gr-text-blue gr-text-7 mt-5"
                 >
                   Branding Projects{" "}
