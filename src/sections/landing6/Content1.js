@@ -44,14 +44,21 @@ const Content = () => {
                   brand identities.
                 </h2>
                 <p className="gr-text-8 mb-0">
-                  We share common trends and strategies for improving your
-                  rental income and making sure you stay in high demand.
+                We fuel the growth of purpose driven brands through strategy activation, design empowerment, and market adoption. From cultivating new ideas to connecting the dots for customers or users, these are our core principles.
+                </p>
+                <p className="gr-text-11 mb-0 mt-5 font-weight-light">
+                <ul>
+                  <li>Brand Strategy & Experience</li>
+                  <li>Guidelines & Systems</li>
+                  <li>Content Strategy</li>
+                  <li>Identity Design</li>
+                </ul>
                 </p>
                 <Link
                   to="/#"
-                  className="btn-link with-icon gr-text-blue gr-text-7 mt-9"
+                  className="btn-link with-icon gr-text-blue gr-text-7 mt-5"
                 >
-                  See our works{" "}
+                  Branding Projects{" "}
                   <i className="icon icon-tail-right"></i>
                 </Link>
               </div>
