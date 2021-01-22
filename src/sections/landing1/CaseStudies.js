@@ -29,10 +29,10 @@ const CaseStudies = () => (
                   </button>
                   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div class="navbar-nav">
-                      <a class="nav-link active text-uppercase" aria-current="page" href="#">Show All</a>
-                      <a class="nav-link text-uppercase" href="#">Branding</a>
-                      <a class="nav-link text-uppercase" href="#">Print</a>
-                      <a class="nav-link text-uppercase" href="#">Web/Mobile</a>
+                      <a class="nav-link active" aria-current="page" href="#">Show All</a>
+                      <a class="nav-link" href="#">Branding</a>
+                      <a class="nav-link" href="#">Print</a>
+                      <a class="nav-link" href="#">Web/Mobile </a>
                     </div>
                   </div>
                 </div>
@@ -46,8 +46,9 @@ const CaseStudies = () => (
             
               <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
                 <div className="case-img overflow-hidden">
-                
+                  <Link to="/projects/laizurni" target="_blank">
                   <img src={imgC1} alt="" className="w-100 rounded-10" />
+                  </Link>
                   
                 </div>
                 <div className="case-content px-5 px-md-9 py-9">
@@ -62,9 +63,12 @@ const CaseStudies = () => (
              
               <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
                 <div className="case-img overflow-hidden">
+                  <Link to="/projects/laizurni" target="_blank">
                   <img src={imgC2} alt="" className="w-100 rounded-10" />
+                  </Link>
                 </div>
                 <div className="case-content px-5 px-md-9 py-9">
+                  
                   <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">
                     Web Development
                   </span>
@@ -75,7 +79,9 @@ const CaseStudies = () => (
               </div>
               <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
                 <div className="case-img overflow-hidden">
+                <Link to="/projects/laizurni" target="_blank">
                   <img src={imgC3} alt="" className="w-100 rounded-10" />
+                  </Link>
                 </div>
                 <div className="case-content px-5 px-md-9 py-9">
                   <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">
@@ -88,7 +94,9 @@ const CaseStudies = () => (
               </div>
               <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
                 <div className="case-img overflow-hidden">
+                <Link to="/projects/laizurni" target="_blank">
                   <img src={imgC4} alt="" className="w-100 rounded-10" />
+                  </Link>
                 </div>
                 <div className="case-content px-5 px-md-9 py-9">
                   <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">

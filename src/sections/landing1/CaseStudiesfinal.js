@@ -29,7 +29,9 @@ const CaseStudiesfinal = () => (
             <div className="card-columns mb-lg-9">
               <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
                 <div className="case-img overflow-hidden">
+                <Link to="/projects/laizurni" target="_blank">
                   <img src={imgC1} alt="" className="w-100 rounded-10" />
+                  </Link>
                 </div>
                 <div className="case-content px-5 px-md-9 py-9">
                   <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">
@@ -42,7 +44,9 @@ const CaseStudiesfinal = () => (
               </div>
               <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
                 <div className="case-img overflow-hidden">
+                  <Link to="/projects/laizurni" target="_blank">
                   <img src={imgC2} alt="" className="w-100 rounded-10" />
+                 </Link>
                 </div>
                 <div className="case-content px-5 px-md-9 py-9">
                   <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">
@@ -55,7 +59,9 @@ const CaseStudiesfinal = () => (
               </div>
               <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
                 <div className="case-img overflow-hidden">
+                <Link to="/projects/laizurni" target="_blank">
                   <img src={imgC3} alt="" className="w-100 rounded-10" />
+                  </Link>
                 </div>
                 <div className="case-content px-5 px-md-9 py-9">
                   <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">
@@ -68,7 +74,9 @@ const CaseStudiesfinal = () => (
               </div>
               <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
                 <div className="case-img overflow-hidden">
+                <Link to="/projects/laizurni" target="_blank">
                   <img src={imgC4} alt="" className="w-100 rounded-10" />
+                  </Link>
                 </div>
                 <div className="case-content px-5 px-md-9 py-9">
                   <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">
@@ -88,7 +96,9 @@ const CaseStudiesfinal = () => (
             <div className="card-columns mb-lg-9">
               <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
                 <div className="case-img overflow-hidden">
+                <Link to="/projects/laizurni" target="_blank">
                   <img src={imgC1} alt="" className="w-100 rounded-10" />
+                  </Link>
                 </div>
                 <div className="case-content px-5 px-md-9 py-9">
                   <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">
@@ -101,7 +111,9 @@ const CaseStudiesfinal = () => (
               </div>
               <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
                 <div className="case-img overflow-hidden">
+                <Link to="/projects/laizurni" target="_blank">
                   <img src={imgC2} alt="" className="w-100 rounded-10" />
+                  </Link>
                 </div>
                 <div className="case-content px-5 px-md-9 py-9">
                   <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">
@@ -114,7 +126,9 @@ const CaseStudiesfinal = () => (
               </div>
               <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
                 <div className="case-img overflow-hidden">
+                <Link to="/projects/laizurni" target="_blank">
                   <img src={imgC3} alt="" className="w-100 rounded-10" />
+                  </Link>
                 </div>
                 <div className="case-content px-5 px-md-9 py-9">
                   <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">
@@ -127,7 +141,9 @@ const CaseStudiesfinal = () => (
               </div>
               <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
                 <div className="case-img overflow-hidden">
+                <Link to="/projects/laizurni" target="_blank">
                   <img src={imgC4} alt="" className="w-100 rounded-10" />
+                  </Link>
                 </div>
                 <div className="case-content px-5 px-md-9 py-9">
                   <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">
