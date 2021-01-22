@@ -21,6 +21,22 @@ const CaseStudies = () => (
               <h2 className="title gr-text-4 mb-0">
                 Our works describe why we are the best in the business
               </h2>
+              <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container-fluid">
+                  <a class="navbar-brand" href="#">Navbar</a>
+                  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                  </button>
+                  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                    <div class="navbar-nav">
+                      <a class="nav-link active text-uppercase" aria-current="page" href="#">Show All</a>
+                      <a class="nav-link text-uppercase" href="#">Branding</a>
+                      <a class="nav-link text-uppercase" href="#">Print</a>
+                      <a class="nav-link text-uppercase" href="#">Web/Mobile</a>
+                    </div>
+                  </div>
+                </div>
+              </nav>
             </div>
           </Col>
         </Row>
