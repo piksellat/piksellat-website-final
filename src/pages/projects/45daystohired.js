@@ -27,9 +27,9 @@ const PortofolioPiece = () => {
             <Row className="justify-content-center mt-md-6 pt-24 pt-lg-29 no-padding">
               <Col lg="9" xl="8">
                 <div className="px-md-12 text-center mb-11 mb-lg-14">
-                  <h2 className="title gr-text-2 mb-9 mb-lg-12">Laizurni Financial Services</h2>
+                  <h2 className="title gr-text-2 mb-9 mb-lg-12">45 Days to Hired</h2>
                   <p className="gr-text-8 mb-0">
-                  Laizurni financial services specializes in growth of wealth and profit account services, taxes and financial analysis.
+                  This piece is typography-based and uses the Rockwell font family. With legibility in mind, the cover pops as a thumbnail and also grabs the attention from the use of high contrast color combination. 🟨
                   </p>
                 </div>
               </Col>
@@ -52,7 +52,9 @@ const PortofolioPiece = () => {
                 </div>
                 <div className="pr-xl-13">
                   <h2 className="gr-text-6 font-weight-normal text-white mb-0">
-                    We are here to help the customers to get their success. We are here to help the customers to get their success.We are here to help the customers to get their success.We are here to help the customers to get their success.We are here to help the customers to get their success.We are here to help the customers to get their success.We are here to help the customers to get their success.We are here to help the customers to get their success.
+                  YOU FOCUS ON THE BRILLIANT WRITING… WE’LL TAKE CARE OF THE REST.
+
+Love it or hate it, the fact is people DO judge a book by its cover. So make yours one that really shines in the marketplace, because who knows who’s eye you’ll catch as a result! We offer various packages for ebook cover design including ebook cover design only, ebook + audio, and ebook + audio + paperback and/or hardcover. Cover cost does not include stock photography fees but a stellar image can be found for as little as $30 per image and up (depending on digital or print preparation and size needed).
                   </h2>
                 </div>
               </Col>
@@ -62,11 +64,7 @@ const PortofolioPiece = () => {
                   DELIVERABLES{" "}
                   </h2>
                     <ul className="gr-text-12 list-unstyled list-group mb-0 text-primary font-weight-light">
-                      <li>Design Research</li>
-                      <li>Content Strategy</li>
-                      <li>Brand Messaging</li>
-                      <li>Visual Design Language</li>
-                      <li>Digital Strategy</li>
+                      <li>Book Cover Design</li>
                     </ul>
                 </div>
               </Col>

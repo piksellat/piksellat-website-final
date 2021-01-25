@@ -38,28 +38,28 @@ const CaseStudiesfinal = () => (
                     Graphic Design
                   </span>
                   <h3 className="case-title gr-text-6 mb-0">
-                    Aura Branding Design
+                  Laizurni Financial Services
                   </h3>
                 </div>
               </div>
               <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
                 <div className="case-img overflow-hidden">
-                  <Link to="/projects/laizurni" target="_blank">
+                  <Link to="/projects/airwego" target="_blank">
                   <img src={imgC2} alt="" className="w-100 rounded-10" />
                  </Link>
                 </div>
                 <div className="case-content px-5 px-md-9 py-9">
                   <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">
-                    Web Development
+                    Branding, Web Design & Development
                   </span>
                   <h3 className="case-title gr-text-6 mb-0">
-                    Gradient Website Development
+                    AirWeGo
                   </h3>
                 </div>
               </div>
               <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
                 <div className="case-img overflow-hidden">
-                <Link to="/projects/laizurni" target="_blank">
+                <Link to="/projects/mce-luxurious" target="_blank">
                   <img src={imgC3} alt="" className="w-100 rounded-10" />
                   </Link>
                 </div>
@@ -74,7 +74,7 @@ const CaseStudiesfinal = () => (
               </div>
               <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
                 <div className="case-img overflow-hidden">
-                <Link to="/projects/laizurni" target="_blank">
+                <Link to="/projects/radio-music-player" target="_blank">
                   <img src={imgC4} alt="" className="w-100 rounded-10" />
                   </Link>
                 </div>
@@ -96,7 +96,7 @@ const CaseStudiesfinal = () => (
             <div className="card-columns mb-lg-9">
               <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
                 <div className="case-img overflow-hidden">
-                <Link to="/projects/laizurni" target="_blank">
+                <Link to="/projects/everyday-joy" target="_blank">
                   <img src={imgC1} alt="" className="w-100 rounded-10" />
                   </Link>
                 </div>
@@ -111,7 +111,7 @@ const CaseStudiesfinal = () => (
               </div>
               <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
                 <div className="case-img overflow-hidden">
-                <Link to="/projects/laizurni" target="_blank">
+                <Link to="/projects/everest-mountain-hiking" target="_blank">
                   <img src={imgC2} alt="" className="w-100 rounded-10" />
                   </Link>
                 </div>
@@ -126,7 +126,7 @@ const CaseStudiesfinal = () => (
               </div>
               <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
                 <div className="case-img overflow-hidden">
-                <Link to="/projects/laizurni" target="_blank">
+                <Link to="/projects/cityscape" target="_blank">
                   <img src={imgC3} alt="" className="w-100 rounded-10" />
                   </Link>
                 </div>
@@ -141,7 +141,7 @@ const CaseStudiesfinal = () => (
               </div>
               <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
                 <div className="case-img overflow-hidden">
-                <Link to="/projects/laizurni" target="_blank">
+                <Link to="/projects/45daystohired" target="_blank">
                   <img src={imgC4} alt="" className="w-100 rounded-10" />
                   </Link>
                 </div>
