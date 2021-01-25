@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Shade Pro Gatsby`,
+    title: `Piksellat - Full Service Digital Agency`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
