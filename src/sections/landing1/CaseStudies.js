@@ -16,7 +16,7 @@ const CaseStudies = () => (
           <Col xl="6" lg="7" md="8">
             <div className="section-title text-center mb-11 mb-lg-21">
               <h3 className="sub-badge gr-text-12 text-uppercase text-red mb-7">
-                Case studies
+                Projects
               </h3>
               <h2 className="title gr-text-4 mb-0">
                 Our works describe why we are the best in the business

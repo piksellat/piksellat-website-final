@@ -35,31 +35,8 @@ const Footer = () => {
                 className="footer-logo mb-11"
               />
               <p className="gr-text-11">
-                With lots of unique blocks, you can easily build a page without
-                coding. Build your next landing page.
+              Pixel Perfect Design Solutions
               </p>
-              <ul className="social-icons py-7 list-unstyled mb-7 mb-lg-0">
-                <li className="mr-2">
-                  <Link to="/" className={iconClassName}>
-                    <i className="icon icon-logo-twitter"></i>
-                  </Link>
-                </li>
-                <li className="mr-2">
-                  <Link to="/" className={iconClassName}>
-                    <i className="icon icon-logo-facebook"></i>
-                  </Link>
-                </li>
-                <li className="mr-2">
-                  <Link to="/" className={iconClassName}>
-                    <i className="icon icon-instant-camera-2"></i>
-                  </Link>
-                </li>
-                <li className="mr-2">
-                  <Link to="/" className={iconClassName}>
-                    <i className="icon icon-logo-linkedin"></i>
-                  </Link>
-                </li>
-              </ul>
             </Col>
             <Col lg="8" md="8" className="offset-lg-1">
               <Row>
@@ -68,55 +45,23 @@ const Footer = () => {
                     <p className="footer-title gr-text-11 mb-7">Company</p>
                     <ul className="footer-list list-unstyled gr-text-9">
                       <li className="py-2">
-                        <Link to="/" className={linkClassName}>
-                          About us
+                        <Link to="/about" className={linkClassName}>
+                          About
                         </Link>
                       </li>
                       <li className="py-2">
-                        <Link to="/" className={linkClassName}>
-                          Contact us
+                        <Link to="/services" className={linkClassName}>
+                          Services
                         </Link>
                       </li>
                       <li className="py-2">
-                        <Link to="/" className={linkClassName}>
-                          Careers
+                        <Link to="/blog" className={linkClassName}>
+                          Blog
                         </Link>
                       </li>
                       <li className="py-2">
-                        <Link to="/" className={linkClassName}>
-                          Press
-                        </Link>
-                      </li>
-                    </ul>
-                  </div>
-                </Col>
-                <Col xs="6" lg="3">
-                  <div className="single-footer mb-13 mb-lg-9">
-                    <p className="footer-title gr-text-11 mb-7">Product</p>
-                    <ul className="footer-list list-unstyled gr-text-9">
-                      <li className="py-2">
-                        <Link to="/" className={linkClassName}>
-                          Features
-                        </Link>
-                      </li>
-                      <li className="py-2">
-                        <Link to="/" className={linkClassName}>
-                          Pricing
-                        </Link>
-                      </li>
-                      <li className="py-2">
-                        <Link to="/" className={linkClassName}>
-                          News
-                        </Link>
-                      </li>
-                      <li className="py-2">
-                        <Link to="/" className={linkClassName}>
-                          Help desk
-                        </Link>
-                      </li>
-                      <li className="py-2">
-                        <Link to="/" className={linkClassName}>
-                          Support
+                        <Link to="/contact" className={linkClassName}>
+                          Contact
                         </Link>
                       </li>
                     </ul>
@@ -127,23 +72,23 @@ const Footer = () => {
                     <p className="footer-title gr-text-11 mb-7">Services</p>
                     <ul className="footer-list list-unstyled gr-text-9">
                       <li className="py-2">
-                        <Link to="/" className={linkClassName}>
-                          Digital Marketing
+                        <Link to="/services" className={linkClassName}>
+                          Branding
                         </Link>
                       </li>
                       <li className="py-2">
-                        <Link to="/" className={linkClassName}>
-                          Content Writing
+                        <Link to="/services" className={linkClassName}>
+                          Web
                         </Link>
                       </li>
                       <li className="py-2">
-                        <Link to="/" className={linkClassName}>
-                          SEO for Business
+                        <Link to="/services" className={linkClassName}>
+                          eCommerce
                         </Link>
                       </li>
                       <li className="py-2">
-                        <Link to="/" className={linkClassName}>
-                          UI Design
+                        <Link to="/services" className={linkClassName}>
+                          Marketing
                         </Link>
                       </li>
                     </ul>
@@ -151,24 +96,39 @@ const Footer = () => {
                 </Col>
                 <Col xs="6" lg="3">
                   <div className="single-footer mb-13 mb-lg-9">
-                    <p className="footer-title gr-text-11 mb-7">Legal</p>
-                    <ul className="footer-list list-unstyled gr-text-9">
-                      <li className="py-2">
-                        <Link to="/" className={linkClassName}>
-                          Privacy Policy
-                        </Link>
-                      </li>
-                      <li className="py-2">
-                        <Link to="/" className={linkClassName}>
-                          Terms &amp; Conditions
-                        </Link>
-                      </li>
-                      <li className="py-2">
-                        <Link to="/" className={linkClassName}>
-                          Return Policy
-                        </Link>
-                      </li>
-                    </ul>
+                    <p className="footer-title gr-text-11 mb-7">Follow us</p>
+                    <ul className="social-icons py-7 list-unstyled mb-7 mb-lg-0">
+                <li className="mr-2">
+                  <Link to="https://twitter.com/piksellat" target="_blank" className={iconClassName}>
+                    <i className="icon icon-logo-twitter"></i>
+                  </Link>
+                </li>
+                <li className="mr-2">
+                  <Link to="https://facebook.com/piksellat" target="_blank" className={iconClassName}>
+                    <i className="icon icon-logo-facebook"></i>
+                  </Link>
+                </li>
+                <li className="mr-2">
+                  <Link to="https://instagram.com/piksellat" target="_blank" className={iconClassName}>
+                    <i className="icon icon-instant-camera-2"></i>
+                  </Link>
+                </li>
+                <li className="mr-2">
+                  <Link to="https://www.linkedin.com/company/piksellat/" target="_blank" className={iconClassName}>
+                    <i className="icon icon-logo-linkedin"></i>
+                  </Link>
+                </li>
+                <li className="mr-2">
+                  <Link to="https://dribbble.com/piksellat" target="_blank" className={iconClassName}>
+                    <i className="icon icon-logo-dribbble"></i>
+                  </Link>
+                </li>
+                <li className="mr-2">
+                  <Link to="https://behance.net/piksellat" target="_blank" className={iconClassName}>
+                    <i className="icon icon-logo-behance"></i>
+                  </Link>
+                </li>
+              </ul>
                   </div>
                 </Col>
               </Row>

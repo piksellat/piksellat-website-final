@@ -63,9 +63,7 @@ const Hero = () => {
                   get more sales.
                 </h1>
                 <p className="gr-text-8 pr-5 pl-0 pr-xl-11 mb-9">
-                  With lots of unique blocks, you can easily build a page
-                  without coding. Build your next consultancy website within few
-                  minutes.
+                  We started our journey 10 years ago and we pledge to offer the best design solutions for your business.
                 </p>
                 <div className="hero-btn">
                   <Link

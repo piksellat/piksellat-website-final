@@ -18,7 +18,7 @@ const Feature = () => (
                 Why choose us
               </h4>
               <h2 className="title gr-text-4">
-                People choose us because we serve the best for everyone
+                Why are we worth it?
               </h2>
             </div>
           </Col>
@@ -40,11 +40,10 @@ const Feature = () => (
                   </div>
                   <div className="widget-text">
                     <h3 className="title gr-text-7 mb-6">
-                      Dedicated project manager
+                      Integrity
                     </h3>
                     <p className="gr-text-9 mb-0 pr-11">
-                      With lots of unique blocks, you can easily build a page
-                      without coding. Build your next landing page.
+                    We care about our work, our clients and our people. We treat everyone with honesty and respect and expect to be treated in the same way.
                     </p>
                   </div>
                 </div>
@@ -62,10 +61,9 @@ const Feature = () => (
                     <img src={icon2} alt="" />
                   </div>
                   <div className="widget-text">
-                    <h3 className="title gr-text-7 mb-6">Organized tasks</h3>
+                    <h3 className="title gr-text-7 mb-6">Practical</h3>
                     <p className="gr-text-9 mb-0 pr-11">
-                      With lots of unique blocks, you can easily build a page
-                      without coding. Build your next landing page.
+                    We are orderly, organized, systematic and once committed - we solve complicated problems, leaving no misaligned pixels along the way.
                     </p>
                   </div>
                 </div>
@@ -84,11 +82,10 @@ const Feature = () => (
                   </div>
                   <div className="widget-text">
                     <h3 className="title gr-text-7 mb-6">
-                      Easy feedback sharing
+                      Creative
                     </h3>
                     <p className="gr-text-9 mb-0 pr-11">
-                      With lots of unique blocks, you can easily build a page
-                      without coding. Build your next landing page.
+                    Every member of our team has a creative streak. This is at the heart of what we do and central to our core values.
                     </p>
                   </div>
                 </div>
@@ -110,8 +107,7 @@ const Feature = () => (
                       Never miss deadline
                     </h3>
                     <p className="gr-text-9 mb-0 pr-11">
-                      With lots of unique blocks, you can easily build a page
-                      without coding. Build your next landing page.
+                      Nobody likes someone who's late, especially when there's a big project on the line. We always deliver on time!
                     </p>
                   </div>
                 </div>

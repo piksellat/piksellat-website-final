@@ -43,8 +43,8 @@ const Contact = () => {
                       <div className="widget-text">
                         <h3 className="gr-text-6 mb-5">Call us</h3>
                         <p className="gr-text-7 mb-0">
-                          +383-49-857-586 <br />
-                          +383-45-50-77-20
+                          +383 49 857 586 <br />
+                          +383 45 507 720
                         </p>
                       </div>
                     </div>
@@ -58,8 +58,6 @@ const Contact = () => {
                         <h3 className="gr-text-6 mb-5">Email us</h3>
                         <p className="gr-text-7 mb-0">
                           info@piksellat.com
-                          <br />
-                          piksellat@gmail.com
                         </p>
                       </div>
                     </div>
@@ -70,11 +68,9 @@ const Contact = () => {
                         <i className="icon icon-pin-3-2"></i>
                       </div>
                       <div className="widget-text">
-                        <h3 className="gr-text-6 mb-5">Based in</h3>
+                        <h3 className="gr-text-6 mb-5">Location</h3>
                         <p className="gr-text-7 mb-0">
                           Ferizaj, Kosovo
-                          <br />
-                          Working Worldwide
                         </p>
                       </div>
                     </div>

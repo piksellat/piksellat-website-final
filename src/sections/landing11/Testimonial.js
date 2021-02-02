@@ -18,21 +18,17 @@ const Testimonial = () => {
           <Row className="align-items-center justify-content-around">
             <Col lg="4" md="6" sm="9" className="mb-16">
               <div className="single-testimonial text-center h-100 d-flex flex-column px-5">
-                <div className="brand-logo mb-9 mb-lg-13">
-                  <img src={imgB1} alt="" />
-                </div>
-                <p className="review-text mb-0 gr-text-6 font-weight-bold gr-text-color">
-                  “You made it so simple. My new site is so much faster &amp;
-                  easier to work with Albino.”
+                <p className="review-text mb-0 gr-text-10 gr-text-color">
+                  “When I saw the branding I could not believe my eyes. The logo is even better than I could have ever thought up. Simple, concise, and to the point, Yet BOLD and inspiring! Thank you so much for your hard work!”
                 </p>
                 <div className="user-block media pt-9 pt-lg-12 d-flex justify-content-center mt-auto">
                   <div className="user-image circle-md mr-7">
                     <img className="w-100" src={imgT1} alt="" />
                   </div>
                   <div className="user-text text-left align-self-center">
-                    <h4 className="user-title gr-text-9 mb-0">Ilya Vasin</h4>
+                    <h4 className="user-title gr-text-9 mb-0">Erin D. Hughes</h4>
                     <span className="user-rank gr-text-11 gr-text-color-opacity">
-                      Software Engineer
+                      Author
                     </span>
                   </div>
                 </div>
@@ -40,12 +36,8 @@ const Testimonial = () => {
             </Col>
             <Col lg="4" md="6" sm="9" className="mb-16">
               <div className="single-testimonial text-center h-100 d-flex flex-column px-5">
-                <div className="brand-logo mb-9 mb-lg-13">
-                  <img src={imgB2} alt="" />
-                </div>
-                <p className="review-text mb-0 gr-text-6 font-weight-bold gr-text-color">
-                  “Must have book for students, who want to be a great Product
-                  Designer.”
+                <p className="review-text mb-0 gr-text-10 gr-text-color">
+                  “Piksellat took the concept and created a beautiful work of art that is not only a stunning cover design, it is clear and to the point. They were easy to work with on revisions, most of which were minor because the design itself was perfect the first time. I am a bit of a perfectionist. The design was great from the get-go. Kind, helpful, and very patient. I am thrilled with the final product!”
                 </p>
                 <div className="user-block media pt-9 pt-lg-12 d-flex justify-content-center mt-auto">
                   <div className="user-image circle-md mr-7">
@@ -53,10 +45,10 @@ const Testimonial = () => {
                   </div>
                   <div className="user-text text-left align-self-center">
                     <h4 className="user-title gr-text-9 mb-0">
-                      Mariano Rasgado
+                    Gloria Ginn
                     </h4>
                     <span className="user-rank gr-text-11 gr-text-color-opacity">
-                      Software Engineer
+                      Author
                     </span>
                   </div>
                 </div>
@@ -64,21 +56,17 @@ const Testimonial = () => {
             </Col>
             <Col lg="4" md="6" sm="9" className="mb-16">
               <div className="single-testimonial text-center h-100 d-flex flex-column px-5">
-                <div className="brand-logo mb-9 mb-lg-13">
-                  <img src={imgB3} alt="" />
-                </div>
-                <p className="review-text mb-0 gr-text-6 font-weight-bold gr-text-color">
-                  “You made it so simple. My new site is so much faster &amp;
-                  easier to work with Albino.”
+                <p className="review-text mb-0 gr-text-10 gr-text-color">
+                  “WOW! What can I say! They brought my dream to life. They used their own creative input to provide me with a book cover that I myself could not have imagined. I am so thankful for their work! Please book with them! Very friendly and responsive, their prices are very fair, and they delivered early!”
                 </p>
                 <div className="user-block media pt-9 pt-lg-12 d-flex justify-content-center mt-auto">
                   <div className="user-image circle-md mr-7">
                     <img className="w-100" src={imgT3} alt="" />
                   </div>
                   <div className="user-text text-left align-self-center">
-                    <h4 className="user-title gr-text-9 mb-0">Oka Tomoaki</h4>
+                    <h4 className="user-title gr-text-9 mb-0">Myles Harris</h4>
                     <span className="user-rank gr-text-11 gr-text-color-opacity">
-                      Software Engineer
+                      Author
                     </span>
                   </div>
                 </div>

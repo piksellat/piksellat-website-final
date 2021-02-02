@@ -28,12 +28,10 @@ const Hero = () => {
                   Design Solutions
                 </h1>
                 <p className="gr-text-8 mb-8">
-                  With lots of unique blocks, you can easily build a page
-                  without coding. Build your next consultancy website within few
-                  minutes.
+                  We started our journey 10 years ago and we pledge to offer the best design solutions for your business.
                 </p>
                 <div className="hero-btn mb-8 ">
-                  <Button className="gr-hover-y">Get A Free Quote</Button>
+                  <Button className="gr-hover-y">Learn more</Button>
                 </div>
                 <a
                   href="/#"

@@ -11,9 +11,9 @@ const Fact = () => (
         <Row className="justify-content-center">
           <Col lg="4" md="6" sm="6" className="mb-9 mb-lg-0">
             <div className="single-fact text-center px-xl-6">
-              <h3 className="title mb-7 gr-text-3">1M+</h3>
+              <h3 className="title mb-7 gr-text-3">3k+</h3>
               <p className="gr-text-8 mb-0">
-                Customers visit Albino every month to get their service done.
+                Number of people and companies we have worked with.
               </p>
             </div>
           </Col>
@@ -22,13 +22,13 @@ const Fact = () => (
               <h3 className="title mb-7 gr-text-3">
                 <LazyLoad>
                   <span className="counter">
-                    <CountUp duration={3} end={92} />
+                    <CountUp duration={3} end={95} />
                   </span>
                   %
                 </LazyLoad>
               </h3>
               <p className="gr-text-8 mb-0">
-                Satisfaction rate comes from our awesome customers.
+                That means, over 3,000 happy customers! Be the next one.
               </p>
             </div>
           </Col>
@@ -37,13 +37,12 @@ const Fact = () => (
               <h3 className="title mb-7 gr-text-3">
                 <LazyLoad>
                   <span className="counter">
-                    <CountUp duration={3} decimal="." decimals={1} end={4.9} />
+                    <CountUp duration={3} end={3240 } />
                   </span>
-                  /5.0
                 </LazyLoad>
               </h3>
               <p className="gr-text-8 mb-0">
-                Average customer ratings we have got all over internet.
+                The amount of coffee cups we have drank until now.
               </p>
             </div>
           </Col>

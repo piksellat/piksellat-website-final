@@ -77,7 +77,7 @@ const Content = () => {
                   to="/#"
                   className="btn-link with-icon gr-text-blue gr-text-7  mt-9"
                 >
-                  Ecommerce Projects{" "}
+                  eCommerce Projects{" "}
                   <i className="icon icon-tail-right"></i>
                 </Link>
               </div>

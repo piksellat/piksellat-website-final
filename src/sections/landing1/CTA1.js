@@ -14,8 +14,7 @@ const CTA = () => (
                   Ready to launch your next project?
                 </h2>
                 <p className="gr-text-8 mb-8 mb-lg-0">
-                  With lots of unique blocks, you can easily build a page
-                  without coding. Build your next landing page.
+                  If yes, let's get started! If not, keep scrolling for the latest completed projects for our clients!
                 </p>
               </div>
             </Col>

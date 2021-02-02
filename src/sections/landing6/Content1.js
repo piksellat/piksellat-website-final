@@ -17,7 +17,7 @@ const Content = () => {
                 Services
               </h3>
               <h2 className="title gr-text-4 mb-0">
-                We offer a great variery of "fuck yes" services
+              We offer a great variety of design services, such as:
               </h2>
             </div>
           </Col>
@@ -44,7 +44,7 @@ const Content = () => {
                   brand identities.
                 </h2>
                 <p className="gr-text-8 mb-0">
-                We fuel the growth of purpose driven brands through strategy activation, design empowerment, and market adoption. From cultivating new ideas to connecting the dots for customers or users, these are our core principles.
+                Brand Identity is who you are as a business or organization, and that statement needs to be strong and clear, resonating throughout all aspects of your business decisions. Whether you’re launching a new brand, or in need of a fresh update, we create a defined awareness between you and your consumer, for a lasting impression.
                 </p>
                 <p className="gr-text-11 mb-0 mt-5 font-weight-light">
                 <ul>
