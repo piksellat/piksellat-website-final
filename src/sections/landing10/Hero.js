@@ -27,6 +27,11 @@ const Hero = () => {
                   Pixel Perfect<br/>
                   Design Solutions
                 </h1>
+                <h5>
+                Detail-oriented to
+                the smallest
+                <strong className="gr-text-7 mb-8 font-weight-normal" > pixel</strong>
+                </h5>
                 <p className="gr-text-8 mb-8">
                   We started our journey 10 years ago and we pledge to offer the best design solutions for your <em>business</em>.
                 </p>

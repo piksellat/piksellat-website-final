@@ -32,7 +32,7 @@ const Footer = () => {
             <Col lg="3" md="4">
               <Logo
                 white={gContext.footer.theme === "dark"}
-                className="footer-logo mb-11"
+                className="footer-logo mb-4"
               />
               <p className="gr-text-11">
               Pixel Perfect Design Solutions
