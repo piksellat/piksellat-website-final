@@ -43,8 +43,8 @@ const PortofolioPiece = () => {
         </div>
         <div className="d-flex justify-content-between bg-blue pt-lg-28 pt-13 pb-13 pb-lg-25">
           <Container>
-            <Row>
-              <Col lg="7" className="mb-7 mb-lg-7">
+            <Row className="justify-content-between">
+              <Col lg="7" className="mb-7 mb-lg-7 ">
               <div className="pr-xl-13">
                   <h2 className="gr-text-12 mb-2 text-primary">
                     OVERVIEW
@@ -56,7 +56,7 @@ const PortofolioPiece = () => {
                   </h2>
                 </div>
               </Col>
-              <Col lg="5" classname="mb-7 mb-lg-0">
+              <Col lg="3" classname="mb-7 mb-lg-0">
                 <div className="pr-xl-13">
                   <h2 className="gr-text-12 mb-2 text-primary">
                   DELIVERABLES{" "}
