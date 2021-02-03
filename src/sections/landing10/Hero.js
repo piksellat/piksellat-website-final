@@ -28,7 +28,7 @@ const Hero = () => {
                   Design Solutions
                 </h1>
                 <p className="gr-text-8 mb-8">
-                  We started our journey 10 years ago and we pledge to offer the best design solutions for your business.
+                  We started our journey 10 years ago and we pledge to offer the best design solutions for your <em>business</em>.
                 </p>
                 <div className="hero-btn mb-8 ">
                   <Button className="gr-hover-y">Learn more</Button>
