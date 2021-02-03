@@ -1,6 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Piksellat - Full Service Digital Agency`,
+    title: `Piksellat Digital Agency`,
+    description: `Full Service Digital Agency`,
+    author: `Piksellat`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
