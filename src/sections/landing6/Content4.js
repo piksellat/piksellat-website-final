@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "gatsby";
 import { Container, Row, Col } from "react-bootstrap";
 
-import imgHero from "../../assets/image/l4/webp/2-layers.webp";
+import imgHero from "../../assets/image/l4/png/performancemarketing.png";
 
 const Content = () => {
   return (
