@@ -3,7 +3,7 @@ import { Row, Col, Container } from "react-bootstrap";
 import PageWrapper from "../../components/PageWrapper";
 import { Link } from "gatsby";
 import imgBanner from "../../assets/image/portofoliopiece/laizurni/headset-case-1.svg";
-import imgC1 from "../../assets/image/portofoliopiece/laizurni/Laizurni2.jpg";
+import imgC1 from "../../assets/image/portofoliopiece/45daystohired/45Days2-scaled-uai-2064x1378.jpg";
 import imgC2 from "../../assets/image/portofoliopiece/laizurni/Laizurni2.jpg";
 
 
@@ -28,22 +28,19 @@ const PortofolioPiece = () => {
               <Col lg="9" xl="8">
                 <div className="px-md-12 text-center mb-11 mb-lg-14">
                   <h2 className="title gr-text-2 mb-9 mb-lg-12">45 Days to Hired</h2>
-                  <p className="gr-text-8 mb-0">
-                  This piece is typography-based and uses the Rockwell font family. With legibility in mind, the cover pops as a thumbnail and also grabs the attention from the use of high contrast color combination. 🟨
-                  </p>
                 </div>
               </Col>
               <Col xs="12">
                 <div className="banner-fluid-image pt-lg-9 ml-0 mr-0">
-                  <img src={imgBanner} alt="" className="w-100" />
+                  <img src={imgC1} alt="" className="w-100" />
                 </div>
               </Col>
             </Row>
           </Container>
         </div>
-        <div className="d-flex justify-content-between bg-blue pt-lg-28 pt-13 pb-13 pb-lg-25">
-          <Container>
-            <Row>
+        <div className="d-flex bg-blue pt-lg-28 pt-13 pb-13 pb-lg-25">
+          <Container >
+            <Row  className="justify-content-between">
               <Col lg="7" className="mb-7 mb-lg-7">
               <div className="pr-xl-13">
                   <h2 className="gr-text-12 mb-2 text-primary">
@@ -52,13 +49,11 @@ const PortofolioPiece = () => {
                 </div>
                 <div className="pr-xl-13">
                   <h2 className="gr-text-6 font-weight-normal text-white mb-0">
-                  YOU FOCUS ON THE BRILLIANT WRITING… WE’LL TAKE CARE OF THE REST.
-
-Love it or hate it, the fact is people DO judge a book by its cover. So make yours one that really shines in the marketplace, because who knows who’s eye you’ll catch as a result! We offer various packages for ebook cover design including ebook cover design only, ebook + audio, and ebook + audio + paperback and/or hardcover. Cover cost does not include stock photography fees but a stellar image can be found for as little as $30 per image and up (depending on digital or print preparation and size needed).
+                  This piece is typography-based and uses the Rockwell font family. With legibility in mind, the cover pops as a thumbnail and also grabs the attention from the use of high contrast color combination. 🟨
                   </h2>
                 </div>
               </Col>
-              <Col lg="5" classname="mb-7 mb-lg-0">
+              <Col lg="3" classname="mb-7 mb-lg-0">
                 <div className="pr-xl-13">
                   <h2 className="gr-text-12 mb-2 text-primary">
                   DELIVERABLES{" "}

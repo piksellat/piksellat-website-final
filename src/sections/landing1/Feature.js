@@ -14,7 +14,7 @@ const Feature = () => (
         <Row className="justify-content-center">
           <Col xl="6" lg="7" md="8">
             <div className="section-title text-center mb-13 mb-lg-23">
-              <h4 className="pre-title gr-text-12 text-red text-uppercase mb-7">
+              <h4 className="pre-title gr-text-12 text-primary text-uppercase mb-7">
                 Why choose us
               </h4>
               <h2 className="title gr-text-4">

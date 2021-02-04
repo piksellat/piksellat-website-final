@@ -59,8 +59,8 @@ const Hero = () => {
             >
               <div className="hero-content dark-mode-texts">
                 <h1 className="gr-text-2 mb-9">
-                  Get more visitors, <br />
-                  get more sales.
+                  Pixel Perfect <br />
+                  Design Solutions.
                 </h1>
                 <p className="gr-text-8 pr-5 pl-0 pr-xl-11 mb-9">
                   We started our journey 10 years ago and we pledge to offer the best design solutions for your business.
@@ -68,9 +68,9 @@ const Hero = () => {
                 <div className="hero-btn">
                   <Link
                     to="/#"
-                    className="btn-link with-icon text-green gr-text-7 font-weight-bold"
+                    className="btn-link with-icon text-primary gr-text-7 font-weight-bold"
                   >
-                    Start a free trial{" "}
+                    Let's make pixels{" "}
                     <i className="icon icon-tail-right font-weight-bold"></i>
                   </Link>
                 </div>

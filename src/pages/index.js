@@ -1,6 +1,6 @@
 import React from "react";
 import PageWrapper from "../components/PageWrapper";
-import Hero from "../sections/landing10/Hero";
+import Hero from "../sections/landing6/Hero";
 import Brands from "../sections/landing12/Brands";
 import Fact from "../sections/landing1/Fact";
 import Feature from "../sections/landing1/Feature";
@@ -19,7 +19,7 @@ const IndexPage = () => {
     <>
       <PageWrapper
       headerConfig={{
-        theme: "light",
+        theme: "dark",
         align: "right",
         button: "cta", // cta, account, null
         buttonText: "Get a free consultation",
