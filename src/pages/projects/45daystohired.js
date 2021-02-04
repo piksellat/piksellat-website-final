@@ -13,7 +13,7 @@ const PortofolioPiece = () => {
     <>
       <PageWrapper
        headerConfig={{
-        theme: "dark",
+        theme: "light",
         align: "right",
         button: "cta", // cta, account, null
         buttonText: "Get a free consultation",
@@ -22,7 +22,17 @@ const PortofolioPiece = () => {
           style: "style1", //style1, style2
         }}
       >
-        
+           <div className="inner-banner">
+          <Container>
+            <Row className="justify-content-center mt-md-6 pt-24 pt-lg-29 no-padding">
+              <Col lg="9" xl="8">
+                <div className="px-md-12 text-center mb-11 mb-lg-14">
+                  <h2 className="title gr-text-2 mb-9 mb-lg-12">45 Days to Hired</h2>
+                </div>
+              </Col>
+            </Row>
+          </Container>
+        </div>
         <div className="d-flex bg-blue pt-lg-28 pt-13 pb-13 pb-lg-25">
           <Container >
             <Row  className="justify-content-between">
