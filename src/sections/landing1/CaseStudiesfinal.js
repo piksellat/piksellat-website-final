@@ -7,9 +7,16 @@ import imgC2 from "../../assets/image/l5/jpg/l5-case2.jpg";
 import imgC3 from "../../assets/image/l5/jpg/l5-case3.jpg";
 import imgC4 from "../../assets/image/l5/jpg/l5-case4.jpg";
 import imgC5 from "../../assets/image/l5/jpg/EuroContractor-base.jpg";
-import imgC6 from "../../assets/image/l5/jpg/Everest-base.jpg";
+import imgC6 from "../../assets/image/l5/jpg/Ajax-05.jpg";
 import imgC7 from "../../assets/image/l5/jpg/Laizurni2.jpg";
 import imgC8 from "../../assets/image/l5/jpg/EverydayJoy1-scaled-uai-2064x1528.jpg";
+import imgC9 from "../../assets/image/l5/jpg/01.jpg";
+import imgC10 from "../../assets/image/l5/jpg/bl2.jpg";
+import imgC11 from "../../assets/image/l5/jpg/01arena.jpg";
+import imgC12 from "../../assets/image/l5/jpg/02.jpg";
+import imgC13 from "../../assets/image/l5/jpg/tmw1.jpg";
+import imgC14 from "../../assets/image/l5/jpg/Toronto-06.jpg";
+import imgC15 from "../../assets/image/l5/jpg/vw2.jpg";
 
 const CaseStudiesfinal = () => (
   <>
@@ -115,7 +122,7 @@ const CaseStudiesfinal = () => (
               </div>
               <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
                 <div className="case-img overflow-hidden">
-                <Link to="/projects/everest-mountain-hiking" target="_blank">
+                <Link to="/projects/ajaxpickering/" target="_blank">
                   <img src={imgC6} alt="" className="w-100 rounded-10" />
                   </Link>
                 </div>
@@ -124,7 +131,7 @@ const CaseStudiesfinal = () => (
                     Branding
                   </span>
                   <h3 className="case-title gr-text-6 mb-0">
-                    Everest Mountain Hiking
+                    Ajax Pickering
                   </h3>
                 </div>
               </div>
@@ -159,6 +166,125 @@ const CaseStudiesfinal = () => (
                 </div>
               </div>
             </div>
+          </Col>
+         
+        </Row>
+        <Row className="justify-content-center">
+          <Col xs="12">
+            <div className="card-columns mb-lg-9">
+              <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
+                <div className="case-img overflow-hidden">
+                <Link to="/projects/atreatiseofmorality/" target="_blank">
+                  <img src={imgC9} alt="" className="w-100 rounded-10" />
+                  </Link>
+                </div>
+                <div className="case-content px-5 px-md-9 py-9">
+                  <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">
+                    Book Cover Design
+                  </span>
+                  <h3 className="case-title gr-text-6 mb-0">
+                    A Treatise of Morality
+                  </h3>
+                </div>
+              </div>
+              <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
+                <div className="case-img overflow-hidden">
+                <Link to="/projects/bigleague/" target="_blank">
+                  <img src={imgC10} alt="" className="w-100 rounded-10" />
+                  </Link>
+                </div>
+                <div className="case-content px-5 px-md-9 py-9">
+                  <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">
+                    Book Cover Design
+                  </span>
+                  <h3 className="case-title gr-text-6 mb-0">
+                    Big League
+                  </h3>
+                </div>
+              </div>
+              <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
+                <div className="case-img overflow-hidden">
+                <Link to="/projects/inthearena/" target="_blank">
+                  <img src={imgC11} alt="" className="w-100 rounded-10" />
+                  </Link>
+                </div>
+                <div className="case-content px-5 px-md-9 py-9">
+                  <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">
+                    Book Cover Design
+                  </span>
+                  <h3 className="case-title gr-text-6 mb-0">
+                    In The Arena
+                  </h3>
+                </div>
+              </div>
+              <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
+                <div className="case-img overflow-hidden">
+                <Link to="/projects/themergeI/" target="_blank">
+                  <img src={imgC12} alt="" className="w-100 rounded-10" />
+                  </Link>
+                </div>
+                <div className="case-content px-5 px-md-9 py-9">
+                  <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">
+                    Book Cover Design
+                  </span>
+                  <h3 className="case-title gr-text-6 mb-0">
+                    The Merge I
+                  </h3>
+                </div>
+              </div>
+            </div>
+          </Col>
+         
+        </Row>
+        <Row className="justify-content-center">
+          <Col xs="12">
+            <div className="card-columns mb-lg-9">
+              <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
+                <div className="case-img overflow-hidden">
+                <Link to="/projects/tmwwebsite/" target="_blank">
+                  <img src={imgC13} alt="" className="w-100 rounded-10" />
+                  </Link>
+                </div>
+                <div className="case-content px-5 px-md-9 py-9">
+                  <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">
+                    Web Design
+                  </span>
+                  <h3 className="case-title gr-text-6 mb-0">
+                    Toronto Mobile Welding Website
+                  </h3>
+                </div>
+              </div>
+              <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
+                <div className="case-img overflow-hidden">
+                <Link to="/projects/torontomobilewelding/" target="_blank">
+                  <img src={imgC14} alt="" className="w-100 rounded-10" />
+                  </Link>
+                </div>
+                <div className="case-content px-5 px-md-9 py-9">
+                  <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">
+                    Logo
+                  </span>
+                  <h3 className="case-title gr-text-6 mb-0">
+                    Toronto Mobile Welding
+                  </h3>
+                </div>
+              </div>
+              <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
+                <div className="case-img overflow-hidden">
+                <Link to="/projects/inthearena/" target="_blank">
+                  <img src={imgC15} alt="" className="w-100 rounded-10" />
+                  </Link>
+                </div>
+                <div className="case-content px-5 px-md-9 py-9">
+                  <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">
+                    Website
+                  </span>
+                  <h3 className="case-title gr-text-6 mb-0">
+                    Volkswagen Kosovo
+                  </h3>
+                </div>
+              </div>
+              </div>
           </Col>
          
         </Row>
