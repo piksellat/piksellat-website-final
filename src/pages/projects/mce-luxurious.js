@@ -32,6 +32,19 @@ const PortofolioPiece = () => {
             </Row>
           </Container>
         </div>
+        
+        <div className="inner-banner">
+          
+            <Row className="justify-content-center  no-padding">
+    
+              <Col xs="12">
+                <div className="banner-fluid-image pt-lg-0 ml-0 mr-0">
+                  <img src={imgC1} alt="" className="w-100" />
+                </div>
+              </Col>
+            </Row>
+          
+        </div>
         <div className="d-flex bg-blue pt-lg-28 pt-13 pb-13 pb-lg-25">
           <Container >
             <Row  className="justify-content-between">
@@ -65,18 +78,6 @@ We developed some brand guidelines which focused around a limited colour palette
               </Col>
             </Row>
           </Container>
-        </div>
-        <div className="inner-banner">
-          
-            <Row className="justify-content-center  no-padding">
-    
-              <Col xs="12">
-                <div className="banner-fluid-image pt-lg-0 ml-0 mr-0">
-                  <img src={imgC1} alt="" className="w-100" />
-                </div>
-              </Col>
-            </Row>
-          
         </div>
         
         

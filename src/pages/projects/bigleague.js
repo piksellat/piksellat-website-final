@@ -2,8 +2,8 @@ import React from "react";
 import { Row, Col, Container } from "react-bootstrap";
 import PageWrapper from "../../components/PageWrapper";
 import { Link } from "gatsby";
-import imgC1 from "../../assets/image/portofoliopiece/bigleague/bigleague.jpg";
-import imgC2 from "../../assets/image/portofoliopiece/bigleague/bl1.jpg";
+import imgC1 from "../../assets/image/portofoliopiece/bigleague/bl1.jpg";
+import imgC2 from "../../assets/image/portofoliopiece/bigleague/bigleague.jpg";
 import imgC3 from "../../assets/image/portofoliopiece/bigleague/bl2.jpg";
 
 
@@ -33,6 +33,19 @@ const PortofolioPiece = () => {
             </Row>
           </Container>
         </div>
+      
+        <div className="inner-banner">
+          
+            <Row className="justify-content-center  no-padding">
+    
+              <Col xs="12">
+                <div className="banner-fluid-image pt-lg-0 ml-0 mr-0">
+                  <img src={imgC1} alt="" className="w-100" />
+                </div>
+              </Col>
+            </Row>
+          
+        </div>
         <div className="d-flex bg-blue pt-lg-28 pt-13 pb-13 pb-lg-25">
           <Container >
             <Row  className="justify-content-between">
@@ -60,18 +73,6 @@ const PortofolioPiece = () => {
               </Col>
             </Row>
           </Container>
-        </div>
-        <div className="inner-banner">
-          
-            <Row className="justify-content-center  no-padding">
-    
-              <Col xs="12">
-                <div className="banner-fluid-image pt-lg-0 ml-0 mr-0">
-                  <img src={imgC1} alt="" className="w-100" />
-                </div>
-              </Col>
-            </Row>
-          
         </div>
         <div className="inner-banner">
           

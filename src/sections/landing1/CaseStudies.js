@@ -2,10 +2,10 @@ import React from "react";
 import { Link } from "gatsby";
 import { Container, Row, Col } from "react-bootstrap";
 
-import imgC1 from "../../assets/image/l5/jpg/l5-case1.jpg";
-import imgC2 from "../../assets/image/l5/jpg/l5-case2.jpg";
-import imgC3 from "../../assets/image/l5/jpg/l5-case3.jpg";
-import imgC4 from "../../assets/image/l5/jpg/l5-case4.jpg";
+import imgC1 from "../../assets/image/l5/jpg/3.jpg";
+import imgC4 from "../../assets/image/l5/jpg/02.jpg";
+import imgC7 from "../../assets/image/l5/jpg/Toronto-05.jpg";
+import imgC10 from "../../assets/image/l5/jpg/vw3.jpg";
 
 const CaseStudies = () => (
   <>
@@ -30,64 +30,64 @@ const CaseStudies = () => (
             
               <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
                 <div className="case-img overflow-hidden">
-                  <Link to="/projects/45daystohired/" target="_blank">
-                  <img src={imgC1} alt="" className="w-100 rounded-10" />
+                  <Link to="/projects/cityscape/">
+                  <img src={imgC1} alt="Mobile app" className="w-100 rounded-10" />
                   </Link>
                   
                 </div>
                 <div className="case-content px-5 px-md-9 py-9">
                   <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">
-                    Graphic Design
-                  </span>
-                  <h3 className="case-title gr-text-6 mb-0">
-                    45 Days to Hired
-                  </h3>
-                </div>
-              </div>
-             
-              <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
-                <div className="case-img overflow-hidden">
-                  <Link to="/projects/airwego/" target="_blank">
-                  <img src={imgC2} alt="" className="w-100 rounded-10" />
-                  </Link>
-                </div>
-                <div className="case-content px-5 px-md-9 py-9">
-                  
-                  <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">
-                    Web Development
-                  </span>
-                  <h3 className="case-title gr-text-6 mb-0">
-                    AirWeGo
-                  </h3>
-                </div>
-              </div>
-              <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
-                <div className="case-img overflow-hidden">
-                <Link to="/projects/cityscape/" target="_blank">
-                  <img src={imgC3} alt="" className="w-100 rounded-10" />
-                  </Link>
-                </div>
-                <div className="case-content px-5 px-md-9 py-9">
-                  <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">
-                    Digital Platforms
+                    Mobile App
                   </span>
                   <h3 className="case-title gr-text-6 mb-0">
                     Cityscape
                   </h3>
                 </div>
               </div>
+             
               <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
                 <div className="case-img overflow-hidden">
-                <Link to="/projects/mce-luxurious/" target="_blank">
-                  <img src={imgC4} alt="" className="w-100 rounded-10" />
+                  <Link to="/projects/themergeI/" >
+                  <img src={imgC4} alt="book cover design" className="w-100 rounded-10" />
+                  </Link>
+                </div>
+                <div className="case-content px-5 px-md-9 py-9">
+                  
+                  <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">
+                    Book Cover Design
+                  </span>
+                  <h3 className="case-title gr-text-6 mb-0">
+                    The Merge I
+                  </h3>
+                </div>
+              </div>
+              <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
+                <div className="case-img overflow-hidden">
+                <Link to="/projects/torontomobilewelding/" >
+                  <img src={imgC7} alt="welding logo" className="w-100 rounded-10" />
                   </Link>
                 </div>
                 <div className="case-content px-5 px-md-9 py-9">
                   <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">
-                    Branding & Print Design
+                    Logo Design
                   </span>
                   <h3 className="case-title gr-text-6 mb-0">
-                  M.C.E. Luxurious
+                   Toronto Mobile Welding
+                  </h3>
+                </div>
+              </div>
+              <div className="single-case d-inline-block px-md-6 mb-3 mb-lg-9 gr-hover-rotate-img">
+                <div className="case-img overflow-hidden">
+                <Link to="/projects/vwkosovo/">
+                  <img src={imgC10} alt="web design kosovo" className="w-100 rounded-10" />
+                  </Link>
+                </div>
+                <div className="case-content px-5 px-md-9 py-9">
+                  <span className="case-category gr-text-11 mb-2 d-inline-block gr-text-color-opacity">
+                    Web Design
+                  </span>
+                  <h3 className="case-title gr-text-6 mb-0">
+                  Volkswagen Kosovo
                   </h3>
                 </div>
               </div>
