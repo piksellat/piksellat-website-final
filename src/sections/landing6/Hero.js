@@ -1,10 +1,8 @@
 import React, { useContext } from "react";
 import { Link } from "gatsby";
 import { Container, Row, Col } from "react-bootstrap";
-
 import GlobalContext from "../../context/GlobalContext";
-
-import imgHero from "../../assets/image/l4/png/l4-hero-img.png";
+import imgHero from "../../assets/image/l4/png/2021-02-17_23-19.png";
 import imgShape from "../../assets/image/l4/png/l4-hero-shape.png";
 
 const Hero = () => {
