@@ -132,7 +132,7 @@ During our conversations with our clients we like to stick to what matters while
               <Col lg="3" md="4" xs="6" className="mb-lg-15 mb-13">
                 <div className="team-card">
                   <div className="card-image">
-                    <img src={imgT3} alt="" className="w-100" />
+                    <img src={imgT4} alt="" className="w-100" />
                   </div>
                   <div className="card-text pt-9">
                     <h3 className="gr-text-7 mb-2">Egzon Salihu</h3>
