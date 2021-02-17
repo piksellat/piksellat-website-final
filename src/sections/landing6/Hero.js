@@ -67,10 +67,10 @@ const Hero = () => {
                 </p>
                 <div className="hero-btn">
                   <Link
-                    to="/#"
+                    to="/contact"
                     className="btn-link with-icon text-primary gr-text-7 font-weight-bold"
                   >
-                    Let's make pixels{" "}
+                    Get in touch{" "}
                     <i className="icon icon-tail-right font-weight-bold"></i>
                   </Link>
                 </div>

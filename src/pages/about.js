@@ -98,8 +98,8 @@ During our conversations with our clients we like to stick to what matters while
                     <img src={imgT1} alt="" className="w-100" />
                   </div>
                   <div className="card-text pt-9">
-                    <h3 className="gr-text-7 mb-2">Joe Bridges</h3>
-                    <p className="gr-text-9 mb-0 line-height-1">Founder</p>
+                    <h3 className="gr-text-7 mb-2">Armend Meha</h3>
+                    <p className="gr-text-9 mb-0 line-height-1">Co-founder & Creative Director</p>
                   </div>
                 </div>
               </Col>
@@ -109,9 +109,9 @@ During our conversations with our clients we like to stick to what matters while
                     <img src={imgT2} alt="" className="w-100" />
                   </div>
                   <div className="card-text pt-9">
-                    <h3 className="gr-text-7 mb-2">Jeffrey Walters</h3>
+                    <h3 className="gr-text-7 mb-2">Irfan Rreba</h3>
                     <p className="gr-text-9 mb-0 line-height-1">
-                      Cheif Executive Officer
+                      Co-founder & Marketing Strategist
                     </p>
                   </div>
                 </div>
@@ -122,9 +122,9 @@ During our conversations with our clients we like to stick to what matters while
                     <img src={imgT3} alt="" className="w-100" />
                   </div>
                   <div className="card-text pt-9">
-                    <h3 className="gr-text-7 mb-2">Jason Reed</h3>
+                    <h3 className="gr-text-7 mb-2">Endrit Hyseni</h3>
                     <p className="gr-text-9 mb-0 line-height-1">
-                      Chief Technology Officer
+                      Content Manager
                     </p>
                   </div>
                 </div>
@@ -132,12 +132,12 @@ During our conversations with our clients we like to stick to what matters while
               <Col lg="3" md="4" xs="6" className="mb-lg-15 mb-13">
                 <div className="team-card">
                   <div className="card-image">
-                    <img src={imgT4} alt="" className="w-100" />
+                    <img src={imgT3} alt="" className="w-100" />
                   </div>
                   <div className="card-text pt-9">
-                    <h3 className="gr-text-7 mb-2">Nellie Padilla</h3>
+                    <h3 className="gr-text-7 mb-2">Egzon Salihu</h3>
                     <p className="gr-text-9 mb-0 line-height-1">
-                      Creative Director
+                      Lead Video Editor
                     </p>
                   </div>
                 </div>
@@ -145,37 +145,13 @@ During our conversations with our clients we like to stick to what matters while
               <Col lg="3" md="4" xs="6" className="mb-lg-15 mb-13">
                 <div className="team-card">
                   <div className="card-image">
-                    <img src={imgT5} alt="" className="w-100" />
+                    <img src={imgT3} alt="" className="w-100" />
                   </div>
                   <div className="card-text pt-9">
-                    <h3 className="gr-text-7 mb-2">Dean Bell</h3>
+                    <h3 className="gr-text-7 mb-2">Egzon Salihu</h3>
                     <p className="gr-text-9 mb-0 line-height-1">
-                      Lead Programmer
+                      Lead Video Editor
                     </p>
-                  </div>
-                </div>
-              </Col>
-              <Col lg="3" md="4" xs="6" className="mb-lg-15 mb-13">
-                <div className="team-card">
-                  <div className="card-image">
-                    <img src={imgT6} alt="" className="w-100" />
-                  </div>
-                  <div className="card-text pt-9">
-                    <h3 className="gr-text-7 mb-2">Pearl Brooks</h3>
-                    <p className="gr-text-9 mb-0 line-height-1">
-                      Digital Marketer
-                    </p>
-                  </div>
-                </div>
-              </Col>
-              <Col lg="3" md="4" xs="6" className="mb-lg-15 mb-13">
-                <div className="team-card">
-                  <div className="card-image">
-                    <img src={imgT7} alt="" className="w-100" />
-                  </div>
-                  <div className="card-text pt-9">
-                    <h3 className="gr-text-7 mb-2">Isaiah Griffin</h3>
-                    <p className="gr-text-9 mb-0 line-height-1">UX Designer</p>
                   </div>
                 </div>
               </Col>
@@ -188,10 +164,10 @@ During our conversations with our clients we like to stick to what matters while
                 <div className="mt-xs-n25">
                   <h3 className="gr-text-6">
                     Interested to join <br />
-                    our team ?
+                    our team?
                   </h3>
                   <a
-                    href="/#"
+                    href="/contact"
                     className="btn-link with-icon gr-text-blue gr-text-7 font-weight-bold mt-5"
                   >
                     Apply now{" "}

@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "gatsby";
 import { Container, Row, Col } from "react-bootstrap";
 
-import imgHero from "../../assets/image/l4/png/Webec.png";
+import imgHero from "../../assets/image/l4/png/branding.png";
 
 const Content = () => {
   return (
@@ -23,7 +23,7 @@ const Content = () => {
           </Col>
         </Row>
           <Row className="align-items-center justify-content-center">
-            <Col sm="10" lg="7">
+            <Col sm="10" lg="6">
               <div
                 className="content-img pr-9"
                 data-aos="zoom-in"

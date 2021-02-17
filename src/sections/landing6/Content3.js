@@ -11,14 +11,14 @@ const Content = () => {
       <div className="content-section bg-default-2 pt-lg-15 pb-13 pb-lg-24">
         <Container>
           <Row className="align-items-center justify-content-center">
-            <Col sm="10" lg="7">
+            <Col sm="10" lg="6">
             <div
                 className="double-image-group-opacity"
                 data-aos="zoom-in"
                 data-aos-duration="1000"
                 data-aos-delay="500"
               >
-                <img className="main-img w-100" src={imgHero} alt="" />
+                <img className="main-img w-100 align-items-left" src={imgHero} alt="" />
               </div>
             </Col>
             <Col sm="10" lg="5" className="col-sm-10 col-lg-5">

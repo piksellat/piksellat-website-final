@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "gatsby";
 import { Container, Row, Col } from "react-bootstrap";
 
-import imgHero from "../../assets/image/l4/png/marketing.png";
+import imgHero from "../../assets/image/l4/png/web.png";
 
 const Content = () => {
   return (
@@ -11,9 +11,7 @@ const Content = () => {
       <div className="content-section bg-default-2 pt-lg-13 pb-13 pb-lg-21">
         <Container>
           <Row className="align-items-center justify-content-center">
-            <Col
-              sm="10"
-              lg="6"
+            <Col sm="10" lg="6" 
               className="offset-xl-1  order-lg-2 mb-9 mb-lg-0"
             >
               <div
