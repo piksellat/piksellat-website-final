@@ -11,6 +11,12 @@ module.exports = {
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/src/assets/image/`,
+      },
+    },
     `gatsby-transformer-remark`,
   ],
 };
