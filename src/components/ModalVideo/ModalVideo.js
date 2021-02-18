@@ -4,6 +4,7 @@ import styled from "styled-components";
 import { Modal } from "react-bootstrap";
 import GlobalContext from "../../context/GlobalContext";
 import { device } from "../../utils";
+import Pexels from "../../assets/image/p.mp4";
 
 const ModalStyled = styled(Modal)`
   &.modal {
@@ -83,6 +84,7 @@ const CloseButton = (props) => (
   </CloseWrapper>
 );
 
+const source= Pexels;
 const ModalVideo = (props) => {
   const [loading, setLoading] = useState(true);
   const gContext = useContext(GlobalContext);
@@ -106,7 +108,7 @@ const ModalVideo = (props) => {
         <div className={`h-100 d-flex align-items-center w-100`}>
           <DivStyled className={`${loading ? "loading" : "loaded"}`}>
             <ReactPlayer
-              url={`https://www.youtube.com/watch?v=zlInYm2JrFw`}
+              url={source}
               width="100%"
               height="100%"
               controls

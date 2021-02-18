@@ -43,8 +43,8 @@ const Contact = () => {
                       <div className="widget-text">
                         <h3 className="gr-text-6 mb-5">Call us</h3>
                         <p className="gr-text-7 mb-0">
-                          +383 49 857 586 <br />
-                          +383 45 507 720
+                          <a href="tel:+383 49 857 586">+383 49 857 586</a> <br />
+                          <a href="tel:+383 45 507 720">+383 45 507 720</a>
                         </p>
                       </div>
                     </div>
@@ -57,7 +57,7 @@ const Contact = () => {
                       <div className="widget-text">
                         <h3 className="gr-text-6 mb-5">Email us</h3>
                         <p className="gr-text-7 mb-0">
-                          info@piksellat.com
+                          <a href="mailto:info@piksellat.com">info@piksellat.com</a>
                         </p>
                       </div>
                     </div>

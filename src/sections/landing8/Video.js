@@ -9,7 +9,7 @@ import imgVWD from "../../assets/image/svg/l6-video-wave-dark.svg";
 
 const Video = () => {
   const gContext = useContext(GlobalContext);
-
+ 
   return (
     <>
       <div className="shape">
@@ -26,13 +26,10 @@ const Video = () => {
                 <img className="w-100 rounded-20" src={imgV} alt="" />
                 <a
                   className="circle-xxl bg-white gr-abs-center gr-abs-hover-y gr-text-8"
-                  href="#/"
-                  onClick={(e) => {
-                    e.preventDefault();
-                    gContext.toggleVideoModal();
-                  }}
+                  href="https://www.youtube.com/embed/FckPK5wViKA?fs=1"
+                  
                 >
-                  <i className="icon icon-triangle-right-17-2 text-red"></i>
+                   <i className="icon icon-triangle-right-17-2 text-red"></i>
                 </a>
                 <div
                   className="gr-abs-bl-custom pattern aos-init aos-animate"
