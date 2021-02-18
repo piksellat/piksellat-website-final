@@ -1,5 +1,8 @@
 export const menuItems = [
-  
+  {
+    name: "#",
+    label: "Home",
+  },
   {
     name: "about",
     label: "About",
