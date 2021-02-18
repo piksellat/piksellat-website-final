@@ -65,7 +65,7 @@ const Hero = () => {
                 </p>
                 <div className="hero-btn">
                   <Link
-                    to="/contact"
+                    to="/contact2"
                     className="btn-link with-icon text-primary gr-text-7 font-weight-bold"
                   >
                     Get in touch{" "}
