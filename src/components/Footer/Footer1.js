@@ -34,9 +34,7 @@ const Footer = () => {
                 white={gContext.footer.theme === "dark"}
                 className="footer-logo mb-4"
               />
-              <p className="gr-text-14">
-              Pixel Perfect Design Solutions
-              </p>
+              
             </Col>
             <Col lg="8" md="8" className="offset-lg-1">
               <Row>
@@ -50,17 +48,13 @@ const Footer = () => {
                         </Link>
                       </li>
                       <li className="py-2">
-                        <Link to="/services" className={linkClassName}>
+                        <Link to="/#" className={linkClassName}>
                           Services
                         </Link>
                       </li>
+                      
                       <li className="py-2">
-                        <Link to="/blog" className={linkClassName}>
-                          Blog
-                        </Link>
-                      </li>
-                      <li className="py-2">
-                        <Link to="/contact" className={linkClassName}>
+                        <Link to="/contact2" className={linkClassName}>
                           Contact
                         </Link>
                       </li>
@@ -72,22 +66,22 @@ const Footer = () => {
                     <p className="footer-title gr-text-11 mb-7">Services</p>
                     <ul className="footer-list list-unstyled gr-text-9">
                       <li className="py-2">
-                        <Link to="/services" className={linkClassName}>
+                        <Link to="/projects" className={linkClassName}>
                           Branding
                         </Link>
                       </li>
                       <li className="py-2">
-                        <Link to="/services" className={linkClassName}>
+                        <Link to="/projects" className={linkClassName}>
                           Web
                         </Link>
                       </li>
                       <li className="py-2">
-                        <Link to="/services" className={linkClassName}>
+                        <Link to="/projects" className={linkClassName}>
                           eCommerce
                         </Link>
                       </li>
                       <li className="py-2">
-                        <Link to="/services" className={linkClassName}>
+                        <Link to="/projects" className={linkClassName}>
                           Marketing
                         </Link>
                       </li>
