@@ -17,7 +17,7 @@ const CTA = () => (
             </Col>
             <Col lg="4" md="10" className="offset-lg-2">
               <div className="cta-btn text-lg-right">
-                <Button className="gr-hover-y">Get started on a project</Button>
+                <Button className="gr-hover-y gr-text-7">Get started on a project</Button>
               </div>
             </Col>
           </Row>
