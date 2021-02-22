@@ -24,7 +24,7 @@ const Video = () => {
                 <img className="w-100 rounded-20" src={imgV} alt="" />
                 <a
                   className="circle-xxl bg-white gr-abs-center gr-abs-hover-y gr-text-8"
-                  href="https://www.youtube.com/embed/FckPK5wViKA?fs=1" target="_blank"
+                  href="https://www.youtube.com/watch?v=FckPK5wViKA" target="_blank"
                   
                 >
                    <i className="icon icon-triangle-right-17-2 text-red"></i>
