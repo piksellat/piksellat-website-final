@@ -5,9 +5,9 @@ import imgB1 from "../../assets/image/l2/png/testimonial-brand-logo1.png";
 import imgB2 from "../../assets/image/l2/png/testimonial-brand-logo2.png";
 import imgB3 from "../../assets/image/l2/png/testimonial-brand-logo1.png";
 
-import imgT1 from "../../assets/image/l2/png/l2-testimonial1.png";
-import imgT2 from "../../assets/image/l2/png/l2-testimonial2.png";
-import imgT3 from "../../assets/image/l2/png/l2-testimonial3.png";
+import imgT1 from "../../assets/image/l2/jpg/erin.jpg";
+import imgT2 from "../../assets/image/l2/jpg/gloria.jpg";
+import imgT3 from "../../assets/image/l2/png/myles.png";
 
 const Testimonial = () => {
   return (
@@ -23,13 +23,11 @@ const Testimonial = () => {
                 </p>
                 <div className="user-block media pt-9 pt-lg-12 d-flex justify-content-center mt-auto">
                   <div className="user-image circle-md mr-7">
-                    <img className="w-100" src={imgT1} alt="" />
+                    <img className="w-100 rounded-circle" src={imgT1} alt="" />
                   </div>
                   <div className="user-text text-left align-self-center">
                     <h4 className="user-title gr-text-9 mb-0">Erin D. Hughes</h4>
-                    <span className="user-rank gr-text-11 gr-text-color-opacity">
-                      Author
-                    </span>
+                    
                   </div>
                 </div>
               </div>
@@ -41,15 +39,13 @@ const Testimonial = () => {
                 </p>
                 <div className="user-block media pt-9 pt-lg-12 d-flex justify-content-center mt-auto">
                   <div className="user-image circle-md mr-7">
-                    <img className="w-100" src={imgT2} alt="" />
+                    <img className="w-100 rounded-circle" src={imgT2} alt="" />
                   </div>
                   <div className="user-text text-left align-self-center">
                     <h4 className="user-title gr-text-9 mb-0">
                     Gloria Ginn
                     </h4>
-                    <span className="user-rank gr-text-11 gr-text-color-opacity">
-                      Author
-                    </span>
+                    
                   </div>
                 </div>
               </div>
@@ -61,13 +57,11 @@ const Testimonial = () => {
                 </p>
                 <div className="user-block media pt-9 pt-lg-12 d-flex justify-content-center mt-auto">
                   <div className="user-image circle-md mr-7">
-                    <img className="w-100" src={imgT3} alt="" />
+                    <img className="w-100 rounded-circle" src={imgT3} alt="" />
                   </div>
                   <div className="user-text text-left align-self-center">
                     <h4 className="user-title gr-text-9 mb-0">Myles Harris</h4>
-                    <span className="user-rank gr-text-11 gr-text-color-opacity">
-                      Author
-                    </span>
+                    
                   </div>
                 </div>
               </div>
