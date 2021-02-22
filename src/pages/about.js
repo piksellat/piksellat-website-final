@@ -8,8 +8,8 @@ import imgC2 from "../assets/image/inner/about-content-2.png";
 import imgC3 from "../assets/image/inner/about-content-3.png";
 import imgC4 from "../assets/image/inner/about-content-4.png";
 import imgT1 from "../assets/image/inner/team-image-1.png";
-import imgT2 from "../assets/image/inner/team-image-2.png";
-import imgT3 from "../assets/image/inner/team-image-3.png";
+import imgT2 from "../assets/image/inner/irfan_rreba.png";
+import imgT3 from "../assets/image/inner/endrit_hyseni.png";
 import imgT4 from "../assets/image/inner/team-image-4.png";
 import imgT5 from "../assets/image/inner/team-image-5.png";
 import imgT6 from "../assets/image/inner/team-image-6.png";
@@ -106,7 +106,7 @@ During our conversations with our clients we like to stick to what matters while
               <Col lg="3" md="4" xs="6" className="mb-lg-15 mb-13">
                 <div className="team-card">
                   <div className="card-image">
-                    <img src={imgT2} alt="" className="w-100" />
+                    <img src={imgT2} alt="" className="w-100 h-100" />
                   </div>
                   <div className="card-text pt-9">
                     <h3 className="gr-text-7 mb-2">Irfan Rreba</h3>
@@ -142,26 +142,14 @@ During our conversations with our clients we like to stick to what matters while
                   </div>
                 </div>
               </Col>
-              <Col lg="3" md="4" xs="6" className="mb-lg-15 mb-13">
-                <div className="team-card">
-                  <div className="card-image">
-                    <img src={imgT3} alt="" className="w-100" />
-                  </div>
-                  <div className="card-text pt-9">
-                    <h3 className="gr-text-7 mb-2">Egzon Salihu</h3>
-                    <p className="gr-text-9 mb-0 line-height-1">
-                      Lead Video Editor
-                    </p>
-                  </div>
-                </div>
-              </Col>
+              
               <Col
                 lg="3"
                 md="4"
                 xs="6"
                 className="mb-13 d-flex align-items-center"
               >
-                <div className="mt-xs-n25">
+                <div className="mt-xs-n1">
                   <h3 className="gr-text-6">
                     Interested to join <br />
                     our team?
