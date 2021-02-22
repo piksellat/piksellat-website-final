@@ -1,10 +1,8 @@
 import React, { useContext } from "react";
 import { Link } from "gatsby";
 import { Container, Row, Col } from "react-bootstrap";
-
 import GlobalContext from "../../context/GlobalContext";
-
-import imgHero from "../../assets/image/l4/png/l4-hero-img.png";
+import imgHero from "../../assets/image/l4/png/2021-02-17_23-19.png";
 import imgShape from "../../assets/image/l4/png/l4-hero-shape.png";
 
 const Hero = () => {
@@ -67,7 +65,7 @@ const Hero = () => {
                 </p>
                 <div className="hero-btn">
                   <Link
-                    to="/contact"
+                    to="/contact2"
                     className="btn-link with-icon text-primary gr-text-7 font-weight-bold"
                   >
                     Get in touch{" "}
