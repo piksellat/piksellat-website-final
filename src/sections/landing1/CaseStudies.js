@@ -97,7 +97,7 @@ const CaseStudies = () => (
             <div className="more-btn case-btn text-center">
               <Link
                 to="/projects/"
-                className="btn-link with-icon mb-0 gr-text-7 font-weight-bold"
+                className="btn-link with-icon mb-15 gr-text-7 font-weight-bold"
               >
                 See all works
                 <i className="icon icon-tail-right font-weight-bold"></i>
