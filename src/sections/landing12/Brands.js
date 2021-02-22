@@ -1,9 +1,9 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 
-import imgB1 from "../../assets/image/l4/png/l4-brand1.png";
-import imgB2 from "../../assets/image/l4/png/l4-brand2.png";
-import imgB3 from "../../assets/image/l4/png/l4-brand3.png";
+import imgB1 from "../../assets/image/l4/png/banaku.png";
+import imgB2 from "../../assets/image/l4/png/incodeks.png";
+import imgB3 from "../../assets/image/l4/png/bidatalab.png";
 import imgB4 from "../../assets/image/l4/png/l4-brand4.png";
 import imgB5 from "../../assets/image/l4/png/l4-brand6.png";
 
@@ -39,22 +39,8 @@ const Brands = () => {
                 >
                   <img src={imgB3} alt="" className="w-100" />
                 </div>
-                <div
-                  className="single-brand mx-9 py-6 gr-opacity-8 gr-hover-opacity-full"
-                  data-aos="zoom-in-right"
-                  data-aos-duration="500"
-                  data-aos-delay="600"
-                >
-                  <img src={imgB4} alt="" className="w-100" />
-                </div>
-                <div
-                  className="single-brand mx-9 py-6 gr-opacity-8 gr-hover-opacity-full"
-                  data-aos="zoom-in-right"
-                  data-aos-duration="800"
-                  data-aos-delay="800"
-                >
-                  <img src={imgB5} alt="" className="w-100" />
-                </div>
+                
+               
               </div>
             </Col>
           </Row>
