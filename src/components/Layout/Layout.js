@@ -119,7 +119,7 @@ const Layout = ({ children, pageContext }) => {
         <div data-theme-mode-panel-active data-theme="light">
           <GlobalStyle />
           <Helmet>
-            <title>Piksellat Digital Agency</title>
+            <title>Piksellat - Creative Design Agency</title>
             <link rel="icon" type="image/png" href={imgFavicon} />
           </Helmet>
           <Loader id="loading" className={visibleLoader ? "" : "inActive"}>
@@ -148,7 +148,7 @@ const Layout = ({ children, pageContext }) => {
         <div data-theme-mode-panel-active data-theme="light">
           <GlobalStyle />
           <Helmet>
-            <title>Piksellat Digital Agency</title>
+            <title>Piksellat - Creative Design Agency</title>
             <link rel="icon" type="image/png" href={imgFavicon} />
           </Helmet>
           <Loader id="loading" className={visibleLoader ? "" : "inActive"} />

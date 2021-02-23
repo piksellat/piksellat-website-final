@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Piksellat Digital Agency`,
+    title: `Piksellat - Creative Design Agency`,
     description: `Full Service Digital Agency`,
     author: `Piksellat`,
       },
