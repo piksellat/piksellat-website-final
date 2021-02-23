@@ -78,9 +78,8 @@ During our conversations with our clients we like to stick to what matters while
                 <div className="section-title text-center px-md-12 mb-lg-17 mb-10">
                   <h2 className="gr-text-3 mb-7 mb-lg-8">Meet our team</h2>
                   <p className="gr-text-8 mb-0">
-                    With lots of unique blocks, you can easily build a page
-                    without coding. Build your next consultancy website within
-                    few minutes.
+                  Our expert team is made up of creatives with technical know-how &
+designers who think outside the box.
                   </p>
                 </div>
               </Col>
