@@ -34,7 +34,7 @@ const IndexPage = () => {
         <Content3 />
         <Content4 />
         <Fact />
-        <Brands />
+        {/* <Brands /> */}
         <Feature />
         <CTA1 />
         <CaseStudies />
