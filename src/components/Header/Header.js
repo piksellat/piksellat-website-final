@@ -224,7 +224,7 @@ const Header = () => {
 
             {gContext.header.button === "cta" && (
               <div className="header-btn ml-auto ml-lg-7 mr-6 mr-lg-0 d-none d-xs-block">
-                <a href="https://calendly.com/d/dtmy-jhn4/free-30-minute-consultation" className={`btn btn-${gContext.header.variant}`}>
+                <a href="https://calendly.com/d/dtmy-jhn4/free-30-minute-consultation"  target="_blank" rel="noreferrer"className={`btn btn-${gContext.header.variant}`}>
                   {gContext.header.buttonText}
                 </a>
               </div>
