@@ -1,6 +1,7 @@
 import React from "react";
 import { Row, Col, Container } from "react-bootstrap";
 import PageWrapper from "../components/PageWrapper";
+import CTA2 from "../sections/landing1/CTA2";
 
 import imgBanner from "../assets/image/inner/about-banner.png";
 import imgT1 from "../assets/image/inner/team-image-1.png";
@@ -71,7 +72,7 @@ During our conversations with our clients we like to stick to what matters while
             </Row>
           </Container>
         </div>
-        <div className="pt-13 pt-lg-24 pb-lg-24 ">
+        <div className="pt-13 pt-lg-24 pb-lg-0 ">
           <Container>
             <Row className="justify-content-center">
               <Col lg="9" xl="8">
@@ -142,7 +143,7 @@ designers who think outside the box.
                 xs="6"
                 className="mb-13 d-flex align-items-center"
               >
-                <div className="mt-xs-n1">
+                <div className="mt-xs-n1 pb-lg-8">
                   <h3 className="gr-text-6">
                     Interested to join <br />
                     our team?
@@ -158,6 +159,7 @@ designers who think outside the box.
               </Col>
             </Row>
           </Container>
+          <CTA2 />
         </div>
       </PageWrapper>
     </>

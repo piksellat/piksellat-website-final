@@ -54,7 +54,7 @@ const Footer = () => {
                       </li>
                       
                       <li className="py-2">
-                        <Link to="/contact2" className={linkClassName}>
+                        <Link to="/contact" className={linkClassName}>
                           Contact
                         </Link>
                       </li>

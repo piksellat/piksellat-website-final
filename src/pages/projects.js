@@ -1,7 +1,7 @@
 import React from "react";
 import { Row, Col, Container } from "react-bootstrap";
 import PageWrapper from "../components/PageWrapper";
-
+import CTA2 from "../sections/landing1/CTA2";
 import CaseStudiesfinal from "../sections/landing1/CaseStudiesfinal";
 
 
@@ -20,6 +20,7 @@ const ProjectsPage = () => {
         }}
       >
       <CaseStudiesfinal />
+      <CTA2 />
       </PageWrapper>
     </>
   );

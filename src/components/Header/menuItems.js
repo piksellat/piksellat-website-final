@@ -12,7 +12,7 @@ export const menuItems = [
     label: "Projects",
   },
   {
-    name: "contact2",
+    name: "contact",
     label: "Contact",
   },
 ];

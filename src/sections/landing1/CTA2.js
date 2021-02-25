@@ -1,5 +1,6 @@
 import React from "react";
 import { Container, Row, Col, Button } from "react-bootstrap";
+import { Link } from "gatsby";
 
 const CTA = () => (
   <>
@@ -17,7 +18,9 @@ const CTA = () => (
             </Col>
             <Col lg="4" md="10" className="offset-lg-2">
               <div className="cta-btn text-lg-right">
+                <Link to="/contact">
                 <Button className="gr-hover-y gr-text-7">Get started on a project</Button>
+                </Link>
               </div>
             </Col>
           </Row>
