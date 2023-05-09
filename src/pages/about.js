@@ -105,7 +105,7 @@ designers who think outside the box.
                   <div className="card-text pt-9">
                     <h3 className="gr-text-7 mb-2">Irfan Rreba</h3>
                     <p className="gr-text-9 mb-0 line-height-1">
-                      Co-founder & Marketing Strategist
+                      Co-founder
                     </p>
                   </div>
                 </div>
