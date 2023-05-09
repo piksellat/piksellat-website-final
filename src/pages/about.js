@@ -110,19 +110,7 @@ designers who think outside the box.
                   </div>
                 </div>
               </Col>
-              <Col lg="3" md="4" xs="6" className="mb-lg-15 mb-13">
-                <div className="team-card">
-                  <div className="card-image">
-                    <img src={imgT3} alt="" className="w-100" />
-                  </div>
-                  <div className="card-text pt-9">
-                    <h3 className="gr-text-7 mb-2">Endrit Hyseni</h3>
-                    <p className="gr-text-9 mb-0 line-height-1">
-                      Content Manager
-                    </p>
-                  </div>
-                </div>
-              </Col>
+             
               <Col lg="3" md="4" xs="6" className="mb-lg-15 mb-13">
                 <div className="team-card">
                   <div className="card-image">
