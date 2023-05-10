@@ -119,7 +119,7 @@ designers who think outside the box.
                   <div className="card-text pt-9">
                     <h3 className="gr-text-7 mb-2">Egzon Salihu</h3>
                     <p className="gr-text-9 mb-0 line-height-1">
-                      Lead Video Editor
+                      Lead Videoo Editor
                     </p>
                   </div>
                 </div>
